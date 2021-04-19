@@ -1,6 +1,5 @@
 this is just a sample project for stock market tracking system. in this project a python library beautifulsoup is used.
-datas are taken from a turkish stock website, then they are written in an excel file to be proceeded. excel files didn't included
-in this repo so the relevant lines can be removed from the code. 
+datas are taken from a turkish stock website, then they are written in an excel file to be proceeded. excel files didn't included in this repo so the relevant lines can be removed from the code. 
 
 ! a little html knowledge is required.
 
